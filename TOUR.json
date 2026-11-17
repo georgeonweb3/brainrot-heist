@@ -1,0 +1,1 @@
+{"tour": 1, "steps": [{"screenshot": "1-thumbnail.jpg"}, {"screenshot": "2-conveyor.png", "keys": ["Right"], "wait_ms": 1000}, {"screenshot": "3-base.jpg", "keys": ["Left"], "wait_ms": 1000}, {"screenshot": "4-spawn.png", "keys": ["Down"], "wait_ms": 1000}]}
